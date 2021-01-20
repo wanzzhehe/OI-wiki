@@ -70,7 +70,7 @@ p=
 {q_1}^{\alpha_1}\cdot{q_2}^{\alpha_2}\cdots{q_r}^{\alpha_r}=\prod_{i=1}^{r}{q_i}^{\alpha_i}
 $$
 
-对于任意 $i,j$ ，有 ${p_i}^{\alpha_i}$ 与 ${p_j}^{\alpha_j}$ 互质，所以可以构造如下 $r$ 个同余方程：
+对于任意 $i,j$ （$i \neq j$），有 ${p_i}^{\alpha_i}$ 与 ${p_j}^{\alpha_j}$ 互质，所以可以构造如下 $r$ 个同余方程：
 
 $$
 \left\{
